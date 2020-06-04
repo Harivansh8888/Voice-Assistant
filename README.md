@@ -1,7 +1,6 @@
 # Voice Assistant
-<br />
-<h1>As of now it tells time, date, greets the user and tells about famous personalities</h1>
 
+<h5>As of now it tells time, date, greets the user and tells about famous personalities</h5>
 Packages/Dependencies required are :
 <br />
 - Speech Recognition `pip install speechrecognition`
